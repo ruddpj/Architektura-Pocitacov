@@ -1,0 +1,48 @@
+
+
+NEO: Hello
+MORPHEUS: Wake up Neo...  The Matrix has you...  (You're connected to Morpheus' server. Send me your ID to proceed.)
+
+NEO: 126888
+MORPHEUS: Hello Tisoň Rudolf I need you to do something for me...
+
+NEO: .
+MORPHEUS: Please disconnect, then reprogram your software to display your name  including diacritics using the function SetConsoleOutputCP(CP_UTF8).  Display messages from me one letter at a time (wait a few milliseconds after each letter).Then reconnect and after MORPHEUS: reading this message send me the code 844848.
+
+NEO: 844848
+MORPHEUS: You sent me the correct code. Now disconnect and reprogram your software to show all my messages in green color and all your messages in blue color.If you don't know how, check the documentation for excercise 2.5.1. Then reconnect and send me the code 753MORPHEUS: 422.
+
+NEO: 753422
+MORPHEUS: You sent me the correct code. Now send me the result of the following. Compute the sum of first 5 digits of your student ID, then divide it by the fifth digit and send me the remainder of the division. The operation must be programed using a function usinMORPHEUS: g the ID as an argument. It can't be hard-coded. WARNING - If the fifth digit is zero, use 9 instead. The result must be computed by your software! 
+
+NEO: 1MORPHEUS: You sent the correct remainder, now reprogram your software so that your messages will be displayed on the left side of the screen and mine on the right side of the screen. If you need advice check the documentation for excercise 2.5.2. MAKE SURE OF THIS MORPHEUS: - your messages must end before the half of the screen, mine start after it. No word can be divided across lines. After finishing reconnect and send me this code 333222334. 
+
+NEO: 333222334
+MORPHEUS: You sent the correct code. In the next message send me the code 123; then I'll send you a cipher of length 148 created by XOR 55. Decipher it and follow the orders! If you need advice check the documentation for excercise 2.3.2. 
+
+NEO: 123
+MORPHEUS: Secret message no. 777: Your partner Trinity is on GPS coordinates 27.988111052036142, 86.92496147100249. Are you willing to find out where she is? 
+
+NEO: yes
+MORPHEUS: Trinity is endangered by Agent Smith! Send me the integral part of the first coordinate from previous ciphered message 
+
+NEO: 27
+MORPHEUS: Correct coordinate. Send me the integral part of the second coordinate from previous ciphered message 
+
+NEO: 86
+MORPHEUS: Correct. Send me the abbreviation of the detected object defined by the GPS coordinates in format X.Y. (all letters as capital letters) 
+
+NEO: M.E.
+MORPHEUS: Yes, Trinity was near the Mount Everest, but agent Smith kidnapped her. Now, send me the string PRIMENUMBER. Then, you will receive a noisy message. Take every character on prime number letter positions (2,3,5...), and put these characters together to forMORPHEUS: m a string and send me this string. ALERT! The string can not be hardcoded in your software, you must invent an algorithm for this to sharpen your analytical abilities in order to fight enemy agents better. 
+
+NEO: PRIMENUMBER
+MORPHEUS: XLOZGP.R.ACLHCOGAGTER NEO: LOG.CHATMORPHEUS: Correct. It is crucial to record all our communication and send it to Sion. Therefore, re-code your software to store all our communication to a file. It must be clear from the log who sent what. Then send me the string Trinity. 
+
+NEO: Trinity
+MORPHEUS: Now you need to study the ship manuals to be able to save Trinity. The questions are in a foreign language. Post the correct reply as an answer. But must also be able to explain the topic and your answer! Here is the first one: Akym terminom oznacujeme poMORPHEUS: cet zmien urovne signalu za sekundu [2 slova]? (prednaska 9) 
+
+NEO: baud rate
+MORPHEUS: Good one! Here is another one: Aky je maximalny pocet pripojenych zariadeni na rozhrani rs485? (prednaska 9) 
+
+NEO: 32
+MORPHEUS: Good answer, great job! For now, this is enough; if you've got this far and accomplished all the tasks you will have full score.  DO NOT SHARE YOUR CODE! EVERY YEAR THERE ARE AT LEAST 5 PLAGIARISTS DETECTED AND EXECUTED AS TRAITORS ON THIS MISSION (BLOCK MORPHEUS: 3). IF YOU WANT A BONUS MISSION FOR EXTRA POINTS SEND ME THE WORD BONUS. 
